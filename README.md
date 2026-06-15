@@ -3,6 +3,14 @@
 ## Descripción
 TPEGoTravel es una aplicación web para la gestión y visualización de viajes y aerolíneas. Permite listar viajes, ver detalles, agregar, modificar y eliminar viajes y aerolíneas, con control de acceso para usuarios autenticados.
 
+## Vista previa del Proyecto
+
+| Principal | Listado de Viajes | Detalle |
+| :---: | :---: | :---: |
+| <img src="./assets/img/Captura de pantalla 2025-08-14 211855.png" width="100%" alt="Vista 1"> | <img src="./assets/img/Captura de pantalla 2025-08-14 212240.png" width="100%" alt="Vista 2"> | <img src="./assets/img/Captura de pantalla 2025-08-14 212248.png" width="100%" alt="Vista 3"> |
+| **Filtros** | **Panel Admin** | **Gestión** |
+| <img src="./assets/img/Captura de pantalla 2025-08-14 212337.png" width="100%" alt="Vista 4"> | <img src="./assets/img/Captura de pantalla 2025-08-14 212353.png" width="100%" alt="Vista 5"> | <img src="./assets/img/Captura de pantalla 2025-08-14 212359.png" width="100%" alt="Vista 6"> |
+
 ## Tecnologías utilizadas
 - PHP (con patrón MVC)
 - Smarty como motor de plantillas
